@@ -1,10 +1,10 @@
 import React from 'react';
 
-const SingleBlog = (props) => {
-    const {userId, title} = props.blog;
+const SingleBlog = () => {
+    
     return (
         <div>
-            <h2>{title} </h2>
+            <h2>Single blog </h2>
         </div>
     );
 };
