@@ -1,10 +1,14 @@
 import React from 'react';
+import './SingleReview.css'
 
 const SingleReview = (props) => {
-    const {userId, title}= props.review;
+    const {rating, text, name}= props.review;
     return (
-        <div>
-            <h1>Singlereview:{title}</h1>
+        <div className='rev-container'>
+            <h3>Name:{name}</h3>
+            <p>Review:{text}</p>
+            <p>Rating: {rating}</p>
+
         </div>
     );
 };

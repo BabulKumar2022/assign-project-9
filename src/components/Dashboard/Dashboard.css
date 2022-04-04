@@ -1,0 +1,9 @@
+.dash-container{
+    display: flex;
+   border: 2px dotted orchid;
+   margin: 10px;
+}
+.chart-1{
+    border: 1px solid olivedrab;
+   
+}

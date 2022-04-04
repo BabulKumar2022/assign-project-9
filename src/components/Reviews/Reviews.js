@@ -5,7 +5,7 @@ import SingleReview from '../SinglReview/SingleReview';
 const Reviews = () => {
     const [reviews, setReviews] =useState([]);
     useEffect(()=>{
-        fetch('http://jsonplaceholder.typicode.com/posts')
+        fetch('data.json')
         .then(res => res.json())
         .then(data => setReviews(data));
     },[]);
@@ -14,7 +14,7 @@ const Reviews = () => {
             <h1>Reviews:{reviews.length}</h1>
            
             {
-                reviews.map(review=> <SingleReview review={review}></SingleReview>)
+                reviews.map(review=> <SingleReview key={review.id} review={review}></SingleReview>)
             }
             
             
