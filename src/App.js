@@ -14,8 +14,6 @@ function App() {
   return (
     <div className="App">
       <Nav></Nav>
-     
-      
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>
         <Route path="/bloges" element={<Bloges></Bloges>}></Route>
@@ -23,8 +21,6 @@ function App() {
         <Route path="/dashboard" element={<Dashboard></Dashboard>}></Route>
         <Route path="/about" element={<About></About>}></Route>
         <Route path="*" element={<Notfound></Notfound>}></Route>
-        
-
       </Routes>
     </div>
   );

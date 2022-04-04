@@ -20,11 +20,6 @@ const Reviews = () => {
                 }
 
             </div>
-            
-           
-            
-            
-            
         </div>
     );
 };

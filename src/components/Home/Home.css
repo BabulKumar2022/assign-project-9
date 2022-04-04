@@ -7,3 +7,19 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 8px;
 }
+.heder-left-text{
+    display: grid;
+    align-content: center;
+    text-align: center;
+   
+    
+}
+.heder-left-text h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size:40px;
+font-weight:bold;
+margin: 15px;
+}
+.color{
+    color: hsl(16, 81%, 55%);
+}

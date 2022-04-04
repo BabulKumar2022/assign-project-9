@@ -1,0 +1,10 @@
+.bloges{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+.first{
+    border: 2px solid rebeccapurple;
+    margin-left: 20px;
+    margin-right: 20px;
+}

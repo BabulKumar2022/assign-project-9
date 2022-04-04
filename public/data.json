@@ -2,8 +2,8 @@
   {
     "_id": "623853b2614ad5aba311fdd1",
     "index": 0,
-    "rating": 1.4,
-    "text" :"This Laptop is very fine",
+    "rating": 4.4,
+    "text" :"This Laptop is very fine laptop. It is light weigth  and more than 4hour battary backup. jast low price. It is Core i7 and SSD card inserted internal. tis is good",
     "picture": "https://i.pinimg.com/originals/9f/3d/13/9f3d13912d3cf78e4c87975bcebc1fee.jpg",
     "name": "Just Chill",
     "gender": "male"
@@ -11,37 +11,37 @@
   {
     "_id": "623853b2578e9e6ad1ae0dd5",
     "index": 1,
-    "text" :"This Laptop is very fine",
+    "text" :" Laptop village is a new platform for everyone. You can support them. It is light weigth  and more than 4hour battary backup. This Laptop is very fine",
     "picture": "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/30/images/artworkimages/medium/1/coffee-coding-syntax-aadil-farooq-transparent.png?targetx=0&targety=0&imagewidth=430&imageheight=516&modelwidth=430&modelheight=575",
-    "name": "Keep Coding",
+    "name": "Js.Bosish",
     "rating": 2.7,
     "gender": "male"
   },
   {
     "_id": "623853b21fb149d2ee7b76c7",
     "index": 2,
-    "text" :"This Laptop is very fine",
+    "text" :" I bougth a core i3 laptop from Laptop Vilage and  iam using for ten months but no trabble. this is good product.This Laptop is very fine",
     "picture": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "name": "Black",
-    "rating": 2.4,
+    "name": "Jon Antony",
+    "rating": 3.4,
     "gender": "male"
   },
   {
     "_id": "623853b2e91c8de578c9245e",
     "index": 3,
-    "text" :"This Laptop is very fine",
+    "text" :"this is good product.This Laptop is very fine It is light weigth  and more than 4hour battary backup.",
     "picture": "https://5.imimg.com/data5/SH/GC/MY-8764775/mens-t-shirt-500x500.jpg",
-    "name": "Mix Yellow",
-    "rating": 1.4,
+    "name": "Mix Alion",
+    "rating": 4.4,
     "gender": "Mix Yellow"
   },
   {
     "_id": "623853b2239582e48409ccc6",
     "index": 4,
-    "text" :"This Laptop is very fine",
+    "text" :"jast low price. It is Core i7 and SSD card inserted internal. tis is goodThis Laptop is very fine",
     "rating": 3.4,
     "picture": "https://www.billbazar.com.bd/public/uploads/all/8hgD0lQGODVXbB5sokhvwr7mUNjBx7pEHusuyGZj.webp",
-    "name": "Bachelor",
+    "name": "Bob Ulamr",
     "gender": "male"
   },
   
@@ -49,10 +49,10 @@
   {
     "_id": "623853b2736f19fd4eb8d44a",
     "index": 6,
-    "text" :"This Laptop is very fine",
+    "text" :"This Laptop is very fine laptop. It is light weigth  and more than 4hour battary backup. jast low price. It is Core i7 and SSD card inserted internal. tis is good",
     "rating": 4.1,
     "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
-    "name": "Black Skull",
+    "name": "Cris Gorge",
     "gender": "female"
   }
 ]
