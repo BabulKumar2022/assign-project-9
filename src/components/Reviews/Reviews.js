@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
+import Home from '../Home/Home';
 import SingleReview from '../SinglReview/SingleReview';
+import './Reviews.css'
 
 
 const Reviews = () => {
@@ -12,10 +14,15 @@ const Reviews = () => {
     return (
         <div>
             <h1>Reviews:{reviews.length}</h1>
+            <div className="reviews-container">
+                {
+                    reviews.map(review=> <SingleReview key={review.id} review={review}></SingleReview>)
+                }
+
+            </div>
+            
            
-            {
-                reviews.map(review=> <SingleReview key={review.id} review={review}></SingleReview>)
-            }
+            
             
             
         </div>

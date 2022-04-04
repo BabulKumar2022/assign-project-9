@@ -44,33 +44,8 @@
     "name": "Bachelor",
     "gender": "male"
   },
-  {
-    "_id": "623853b2cdda0d5bc294f791",
-    "index": 5,
-    "text" :"This Laptop is very fine",
-    "picture": "https://m.media-amazon.com/images/I/61GMJ+3ekAS._AC_UL320_.jpg",
-    "name": "Right rating",
-    "rating": 1.4,
-    "gender": "male"
-  },
-  {
-    "_id": "623853b2cdda0d5bc294f791",
-    "index": 5,
-    "text" :"This Laptop is very fine",
-    "picture": "https://m.media-amazon.com/images/I/61GMJ+3ekAS._AC_UL320_.jpg",
-    "name": "Right rating",
-    "rating": 1.4,
-    "gender": "male"
-  },
-  {
-    "_id": "623853b2cdda0d5bc294f791",
-    "index": 5,
-    "text" :"This Laptop is very fine",
-    "picture": "https://m.media-amazon.com/images/I/61GMJ+3ekAS._AC_UL320_.jpg",
-    "name": "Right rating",
-    "rating": 1.4,
-    "gender": "male"
-  },
+  
+  
   {
     "_id": "623853b2736f19fd4eb8d44a",
     "index": 6,
