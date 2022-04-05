@@ -22,7 +22,7 @@ const Home = () => {
         <div  className="header-area">
             <div className="header-hero">
                 <div className="heder-left-text">
-                  <h1>Exelent Laptop Pro Village </h1>
+                  <h1>Excellent Laptop Pro Village </h1>
                   <h1 className='color'>Your Future on Going</h1>
                   <p>The best for you. Now here are avilable pro smart high configaration laptop. Laptop Village is solution your need. core i7, corei5 core i3, core2dou are on your dor to one step.</p>
                   <div className="btn">

@@ -3,5 +3,7 @@ border: 2px solid rebeccapurple;
 margin: 10px;
 background-color: aliceblue;
 border-radius: 10px;
-
+}
+.rev-container h3{
+color: rgb(16, 124, 183);
 }
