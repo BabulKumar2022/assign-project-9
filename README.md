@@ -1,7 +1,7 @@
 #  *Getting Started with  Our new project "laptop Village"
 
 
-* Go now our live project here (https://github.com/facebook/create-react-app).
+* Go now our live project here (https://profound-chaja-daaf0b.netlify.app/).
 
 ## *This project made by react js
 * Used Special Functions:
